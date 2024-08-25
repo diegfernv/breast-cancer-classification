@@ -3,4 +3,5 @@ __pycache__/
 *.zip
 *.md
 *.joblib
+*.txt
 .ipynb_checkpoints/
